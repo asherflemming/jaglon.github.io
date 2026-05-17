@@ -1,6 +1,6 @@
 # M3U8 Maker
 
-A browser-based `.m3u8` playlist generator built with **React + Vite**. Point it at your local music library and a Spotify playlist or album link (or a CSV export), and it fuzzy-matches your tracks and generates a ready-to-use M3U8 file — ideal for Rockbox and other media players that support the format.
+A browser-based `.m3u8` playlist generator built with **React + Vite**. Point it at your local music library and a Spotify playlist or album link (or a CSV export), and it fuzzy-matches your tracks and generates a ready-to-use M3U8 file — ideal for Rockbox and other media players that support the format. never
 
 All processing happens locally in your browser — no audio, metadata, or credentials are ever uploaded to a server.
 
